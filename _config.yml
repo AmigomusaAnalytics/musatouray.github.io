@@ -1,7 +1,7 @@
 title: "Musa Touray Portfolio"
 email: amigomusa@amigomusa.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "https://musatouray.github.io/"
 permalink: "/:title/"
 logo: 'assets/images/logo_2.png'
 favicon: 'assets/images/favicon.ico'
