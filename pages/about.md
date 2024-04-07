@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/intro.svg
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+TI am a Microsoft certified professional with Power BI and PowerApps, as well as a Masters degree in Computer Science. 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+I have strong technical skills in using Power Query, Data Modeling, DAX, T-SQL, and Power Automate to perform ETL, design databases, create reports and dashboards, and automate workflows. I also have experience creating business apps using Canvas and Model driven PowerApps. 
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+I am passionate about learning new technologies and applying them to solve real-world problems and deliver value to the organization and its customers.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+
 
