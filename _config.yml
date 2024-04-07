@@ -1,13 +1,13 @@
-title: "Musa Touray"
+title: "Musa Touray Portfolio"
 email: amigomusa@amigomusa.com
 timezone: UTC
-baseurl: "https://musatouray.github.io"
+baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo_2.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Musa Touray
 paginate: 30
-disqus: 'musatouray.github.io'
+disqus: 'portfoliowebsite'
 locale: en_us
 lang: en_us
 feed_items: 10
