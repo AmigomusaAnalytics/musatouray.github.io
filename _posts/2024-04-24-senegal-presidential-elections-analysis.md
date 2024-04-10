@@ -2,7 +2,7 @@
 layout: post
 title:  "Senegal Presidential Elections Analysis"
 author: Musa Touray
-categories: [ Power BI, Data Visualization ]
+categories: [ Jekyll, tutorial ]
 image: assets/images/senegal_elections_analysis.jpg
 #featured: true
 ---
