@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Gambia National Assembly / Parliamentary elections Live Dashboard"
-author: sal
+author: Musa Touray
 categories: [ Jekyll, tutorial ]
 image: assets/images/gambia-parliamentary-elections.jpg
 ---

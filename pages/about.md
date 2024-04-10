@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/intro.svg
+image: assets/images/musatouray-bg.png
 ---
 
 I am a Microsoft certified professional with Power BI and PowerApps, as well as a Masters degree in Computer Science. 
