@@ -4,6 +4,7 @@ title:  "Real-Time Live TV Presidential Elections Report"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/gambia-presidential-elections.jpg
+featured: true
 ---
 This project is special to me as it is about national service. I was contracted by the National TV Station of The Gambia (my country) to help broadcast on the national TV, live results of 2021 presidential election.
 
