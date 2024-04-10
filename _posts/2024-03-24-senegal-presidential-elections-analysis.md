@@ -11,7 +11,7 @@ This project is an analysis of the just concluded presidential election of Seneg
 However, I had the constraint of not being able to get access to all the election results as their was no reliable source. This is still a pending issue, hopin gthat the election commission will publish the full results soonest.
 
 <p>
-    <iframe style="width:100%;" height="720" 
+    <iframe style="width:100%;" height="383" 
         src="https://app.powerbi.com/view?r=eyJrIjoiOGRkNTU4MzktYTc1NC00OWQ3LTlmZjYtNjI1N2FlYjQ1OWQwIiwidCI6ImU3ZmRiMmEyLTUzODAtNDBmMC04MmQ4LWEzYjU0YzFmODE3ZiJ9" 
         frameborder="0" allowFullScreen="true">
     </iframe>
