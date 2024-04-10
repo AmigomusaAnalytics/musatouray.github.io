@@ -27,19 +27,19 @@ authors:
   musa:
     name: Musa Touray
     display_name: Musa Touray
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/musatouray-avatar.png'
     email: amigomusa@amigomusa.com
     web: musatouray.github.io
     twitter: https://twitter.com/mosesgerrard
     description: "I am a Microsoft certified Power BI and PowerApps developer."
-  musa:
-    name: Musa Touray
-    display_name: Musa Touray
-    avatar: 'assets/images/john.png'
-    email: amigomusa@amigomusa.com
-    web: musatouray.github.io
-    twitter: https://twitter.com/mosesgerrard
-    description: "I am a Microsoft certified Power BI and PowerApps developer."
+ # musa:
+  #  name: Musa Touray
+  #  display_name: Musa Touray
+  #  avatar: 'assets/images/john.png'
+  #  email: amigomusa@amigomusa.com
+  #  web: musatouray.github.io
+  #  twitter: https://twitter.com/mosesgerrard
+  #  description: "I am a Microsoft certified Power BI and PowerApps developer."
 
 # Social
 social:
