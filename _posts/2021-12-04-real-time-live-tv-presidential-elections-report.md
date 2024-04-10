@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Real-Time Live TV Presidential Elections Report"
-author: sal
+author: Musa Touray
 categories: [ Jekyll, tutorial ]
 image: assets/images/gambia-presidential-elections.jpg
 featured: true
