@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Senegal Presidential Elections Analysis"
-author: Musa Touray
+author: john
 categories: [ Power BI, Data Visualization, Real-Time Analytics]
 image: assets/images/senegal_elections_analysis.jpg
 featured: true

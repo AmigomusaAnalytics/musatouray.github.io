@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Real-Time Live TV Presidential Elections Report"
-author: Musa
+author: john
 categories: [ Power BI, Data Visualization, Real-Time Analytics]
 image: assets/images/gambia-presidential-elections.jpg
 featured: true

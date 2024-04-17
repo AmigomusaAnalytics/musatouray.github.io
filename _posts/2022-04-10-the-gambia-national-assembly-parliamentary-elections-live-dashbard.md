@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Gambia National Assembly / Parliamentary Elections Live Dashboard"
-author: Musa Touray
+author: john
 categories: [ Power BI, Data Visualization, Real-Time Analytics]
 image: assets/images/gambia-parliamentary-elections.jpg
 ---
